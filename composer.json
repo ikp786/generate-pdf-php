@@ -1,0 +1,6 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.5",
+        "paytm/paytm-pg": "^0.0.5"
+    }
+}
